@@ -14,7 +14,7 @@ In this lab we'll use JavaScript to access to the DOM and dynamically add elemen
 
 ## Task 2:
  1. Using the `createElement` method, create a new paragraph (\<p\>) node and then assign the returned node object to a new variable named `pNode`.
- 2. Using the `createTextNode` method, create a new text node with value "CSCI 215: Lab 5 Todo" and then assign the returned node object to a new variable named `pTextNode`.
+ 2. Using the `createTextNode` method, create a new text node with value  " and then assign the returned node object to a new variable named `pTextNode`.
  3. Using the `appendChild` method, append child node `pTextNode` to parent node `pNode`.
  4. Using the `appendChild` method, append child node `pNode` to parent node `divNode`.
  
